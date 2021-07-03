@@ -1,0 +1,12 @@
+{
+  "name": "solidity-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
